@@ -9,3 +9,5 @@
 - [Rolling Sales Data](https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page)
 - [New York City Neighborhood Data Profiles](http://furmancenter.org/neighborhoods)
 - [PLUTO, the City’s Department of Buildings database](https://www1.nyc.gov/site/planning/data-maps/open-data.page)
+
+You can download our data [here](https://github.com/zhuoyingcai/NYC-Housing-Prices-Analysis/tree/master/annualizedSalesUpdate).
