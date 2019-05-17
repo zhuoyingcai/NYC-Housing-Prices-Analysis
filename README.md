@@ -13,6 +13,6 @@
 You can download our data [here](https://github.com/zhuoyingcai/NYC-Housing-Prices-Analysis/tree/master/annualizedSalesUpdate).
 
 ## How to run?
-Download our data and put it into your google drive, path: 'Colab Notebooks/dataScience/annualizedSalesUpdate'. Then click RUN ALL in COLAB and follow the instruction to connect the google drive.
+Download our data and put it into your google drive, path: `'Colab Notebooks/dataScience/annualizedSalesUpdate'`. Then click RUN ALL in COLAB and follow the instruction to connect the google drive.
 
 You can also run the .ipynb locally with our data and your path (please edit the path in __Config__ section).
